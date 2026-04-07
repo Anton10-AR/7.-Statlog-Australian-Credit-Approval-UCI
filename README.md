@@ -1,1 +1,3 @@
 # 7.-Statlog-Australian-Credit-Approval-UCI
+
+El Statlog (Australian Credit Approval) es un conjunto de datos de clasificación utilizado en aprendizaje automático que contiene información sobre solicitudes de tarjetas de crédito, con un total de 690 registros y 14 atributos predictivos que combinan variables categóricas y numéricas relacionadas con características financieras y demográficas de los solicitantes; los nombres y valores de los atributos fueron codificados con símbolos sin significado para proteger la confidencialidad de los datos, y el objetivo del dataset es predecir si una solicitud de crédito será aprobada o rechazada, lo que lo convierte en un benchmark clásico para evaluar algoritmos de clasificación en problemas financieros.
